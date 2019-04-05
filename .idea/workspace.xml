@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0b8e5ca-3659-418b-af34-41aead1344b3" name="Default Changelist" comment="" />
+    <list default="true" id="d0b8e5ca-3659-418b-af34-41aead1344b3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/BTVN_Bai13_TuHV/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BTVN_Bai13_TuHV/src/main/java/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BTVN_Bai13_TuHV/src/main/java/Sever.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BTVN_Bai13_TuHV/src/main/java/threadsocket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTVN_Bai12_TuHV/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/BTVN_Bai12_TuHV/src/main/java/ITLap/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTVN_Bai12_TuHV/src/main/java/TimeOutThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/BTVN_Bai12_TuHV/src/main/java/ITLap/TimeOutThread.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/Demo/target/" />
     <ignored path="$PROJECT_DIR$/BTVN_Bai12_TuHV/target/" />
+    <ignored path="$PROJECT_DIR$/BTVN_Bai13_TuHV/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,28 +29,24 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BTVN_Bai12_TuHV/src/main/java/Main.java">
+        <entry file="file://$PROJECT_DIR$/BTVN_Bai12_TuHV/src/main/java/ITLap/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-              <folding>
-                <element signature="e#342#474#0" expanded="true" />
-                <element signature="e#473#474#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-2">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BTVN_Bai12_TuHV/src/main/java/TimeOutThread.java">
+        <entry file="file://$PROJECT_DIR$/BTVN_Bai12_TuHV/src/main/java/ITLap/TimeOutThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+            <state relative-caret-position="238">
+              <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
               <folding>
-                <element signature="e#421#422#0" expanded="true" />
-                <element signature="e#457#458#0" expanded="true" />
-                <element signature="e#832#833#0" expanded="true" />
-                <element signature="e#870#871#0" expanded="true" />
+                <element signature="e#722#723#0" expanded="true" />
+                <element signature="e#758#759#0" expanded="true" />
+                <element signature="e#801#802#0" expanded="true" />
+                <element signature="e#839#840#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -51,6 +58,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="package.json" />
       </list>
     </option>
   </component>
@@ -60,6 +68,9 @@
       <find>TimeOutThread</find>
       <find>beforeExecute</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -71,8 +82,15 @@
         <option value="$PROJECT_DIR$/BTVN_Bai12_TuHV/src/main/java/test.java" />
         <option value="$PROJECT_DIR$/BTVN_Bai12_TuHV/src/main/java/TimedExecutorService.java" />
         <option value="$PROJECT_DIR$/BTVN_Bai12_TuHV/src/main/java/data.java" />
+        <option value="$PROJECT_DIR$/BTVN_Bai13_TuHV/pom.xml" />
+        <option value="$PROJECT_DIR$/BTVN_Bai13_TuHV/src/main/java/Sever.java" />
+        <option value="$PROJECT_DIR$/BTVN_Bai13_TuHV/src/main/java/threadsocket.java" />
+        <option value="$PROJECT_DIR$/BTVN_Bai13_TuHV/src/main/java/Client.java" />
         <option value="$PROJECT_DIR$/BTVN_Bai12_TuHV/src/main/java/TimeOutThread.java" />
+        <option value="$PROJECT_DIR$/BTVN_Bai12_TuHV/src/main/package.json" />
         <option value="$PROJECT_DIR$/BTVN_Bai12_TuHV/src/main/java/Main.java" />
+        <option value="$PROJECT_DIR$/BTVN_Bai12_TuHV/src/main/java/ITLap/Main.java" />
+        <option value="$PROJECT_DIR$/BTVN_Bai12_TuHV/src/main/java/ITLap/TimeOutThread.java" />
       </list>
     </option>
   </component>
@@ -83,12 +101,19 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -127,20 +152,31 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="BTVN_ThayTrung" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BTVN_ThayTrung" type="462c0819:PsiDirectoryNode" />
+              <item name="BTVN_Bai12_TuHV" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ITLap" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554405371921" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554428688780" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -154,10 +190,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="DemoSocket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DemoSocket" />
-      <module name="Demo" />
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Client" />
+      <module name="BTVN_Bai13_TuHV" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ITLap.Main" />
+      <module name="BTVN_Bai12_TuHV" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ITLap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -169,18 +218,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tet" />
-      <module name="BTVN_Bai12_TuHV" />
+    <configuration name="Sever" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sever" />
+      <module name="BTVN_Bai13_TuHV" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="server" />
+      <module name="BTVN_Bai13_TuHV" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.tet" />
-        <item itemvalue="Application.DemoSocket" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Sever" />
+        <item itemvalue="Application.server" />
       </list>
     </recent_temporary>
   </component>
@@ -195,12 +253,14 @@
       <option name="presentableId" value="Default" />
       <updated>1554367227913</updated>
       <workItem from="1554367242698" duration="831000" />
-      <workItem from="1554392555851" duration="10247000" />
+      <workItem from="1554392555851" duration="10789000" />
+      <workItem from="1554423696622" duration="1859000" />
+      <workItem from="1554425750790" duration="2729000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11078000" />
+    <option name="totallyTimeSpent" value="16208000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -215,16 +275,16 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49756098" visible="true" weight="0.25340393" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.26096824" />
       <window_info id="Structure" order="1" sideWeight="0.5008183" side_tool="true" weight="0.25340393" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" sideWeight="0.502439" side_tool="true" visible="true" weight="0.25340393" />
+      <window_info id="Favorites" order="6" sideWeight="0.5008183" side_tool="true" weight="0.25340393" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4977307" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4977307" visible="true" weight="0.31260228" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -241,7 +301,7 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32980332" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
@@ -277,70 +337,78 @@
     <entry file="file://$PROJECT_DIR$/BTVN_Bai12_TuHV/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/BTVN_Bai12_TuHV/src/main/java/tet.java">
+    <entry file="file://$PROJECT_DIR$/BTVN_Bai12_TuHV/src/main/java/tet.java" />
+    <entry file="file://$PROJECT_DIR$/BTVN_Bai12_TuHV/src/main/java/Task.java" />
+    <entry file="file://$PROJECT_DIR$/BTVN_Bai12_TuHV/src/main/java/test.java" />
+    <entry file="file://$PROJECT_DIR$/BTVN_Bai12_TuHV/src/main/java/TimedExecutorService.java" />
+    <entry file="file://$PROJECT_DIR$/BTVN_Bai12_TuHV/src/main/java/data.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/io/BufferedReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="182" column="13" lean-forward="true" selection-start-line="182" selection-start-column="13" selection-end-line="182" selection-end-column="13" />
+        <state relative-caret-position="195">
+          <caret line="387" column="18" selection-start-line="387" selection-start-column="18" selection-end-line="387" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BTVN_Bai13_TuHV/src/main/java/threadsocket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="29" column="33" lean-forward="true" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BTVN_Bai12_TuHV/src/main/java/Task.java">
+    <entry file="file://$PROJECT_DIR$/BTVN_Bai13_TuHV/src/main/java/Sever.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="274">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1222#1223#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BTVN_Bai12_TuHV/src/main/java/test.java">
+    <entry file="file://$PROJECT_DIR$/BTVN_Bai13_TuHV/src/main/java/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="29" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#910#1392#0" expanded="true" />
+            <element signature="e#1391#1392#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BTVN_Bai13_TuHV/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/BTVN_Bai12_TuHV/src/main/java/TimedExecutorService.java">
+    <entry file="file://$PROJECT_DIR$/BTVN_Bai12_TuHV/src/main/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="17">
+          <caret line="1" column="15" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BTVN_Bai12_TuHV/src/main/java/ITLap/TimeOutThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#722#723#0" expanded="true" />
+            <element signature="e#758#759#0" expanded="true" />
+            <element signature="e#801#802#0" expanded="true" />
+            <element signature="e#839#840#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BTVN_Bai12_TuHV/src/main/java/data.java">
+    <entry file="file://$PROJECT_DIR$/BTVN_Bai12_TuHV/src/main/java/ITLap/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding>
-            <element signature="e#74#75#0" expanded="true" />
-            <element signature="e#101#102#0" expanded="true" />
-            <element signature="e#141#142#0" expanded="true" />
-            <element signature="e#173#174#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BTVN_Bai12_TuHV/src/main/java/TimeOutThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-          <folding>
-            <element signature="e#421#422#0" expanded="true" />
-            <element signature="e#457#458#0" expanded="true" />
-            <element signature="e#832#833#0" expanded="true" />
-            <element signature="e#870#871#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BTVN_Bai12_TuHV/src/main/java/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-          <folding>
-            <element signature="e#342#474#0" expanded="true" />
-            <element signature="e#473#474#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-2">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>

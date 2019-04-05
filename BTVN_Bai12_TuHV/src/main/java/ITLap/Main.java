@@ -1,9 +1,10 @@
+package ITLap;
+
 public class Main {
     public static void main(String[] args) throws InterruptedException {
-        long timeOut = 10000;
-        long start = System.currentTimeMillis();
+        long timeOut = 5000;
         TimeOutThread timeOutThread = new TimeOutThread();
-        timeOutThread.setTimeOut(5000);
+        timeOutThread.setTimeOut(timeOut);
         Thread thread = new Thread(timeOutThread);
         //start thread 1
         thread.start();

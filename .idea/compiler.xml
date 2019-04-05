@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="BTVN_Bai12_TuHV" />
+        <module name="BTVN_Bai13_TuHV" />
         <module name="Demo" />
       </profile>
     </annotationProcessing>

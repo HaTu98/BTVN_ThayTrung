@@ -1,3 +1,4 @@
+package ITLap;
 import java.util.concurrent.atomic.AtomicBoolean;
 
 public class TimeOutThread implements Runnable{
@@ -23,7 +24,7 @@ public class TimeOutThread implements Runnable{
         }
     }
 
-    public  void stop(){
+    private   void stop(){
         isRunning.set(false);
     }
     public void setTimeOut(long timeOut) {

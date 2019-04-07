@@ -1,4 +1,4 @@
-package ITLap;
+package ServerClient;
 
 public class Main {
     public static void main(String[] args) throws InterruptedException {

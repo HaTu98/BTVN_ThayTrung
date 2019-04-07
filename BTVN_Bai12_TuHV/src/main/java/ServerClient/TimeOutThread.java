@@ -1,4 +1,4 @@
-package ITLap;
+package ServerClient;
 import java.util.concurrent.atomic.AtomicBoolean;
 
 public class TimeOutThread implements Runnable{

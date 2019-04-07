@@ -9,7 +9,7 @@ class BoxChat {
     private BufferedWriter bufferedWriter;
 
 
-    BoxChat(final Socket socket,final String name) {
+    BoxChat(final Socket socket, final String name) {
         Scanner scanner = new Scanner(System.in);
         try {
             bufferedReader = new BufferedReader(new InputStreamReader(socket.getInputStream()));
@@ -20,12 +20,12 @@ class BoxChat {
                 public void run() {
                     while (true) {
                         try {
-                            if(socket.isClosed()){
+                            if (socket.isClosed()) {
                                 break;
                             }
                             String data = bufferedReader.readLine();
                             if (!data.isEmpty()) {
-                                if (data.equalsIgnoreCase("finish")){
+                                if (data.equalsIgnoreCase("finish")) {
                                     socket.close();
                                     break;
                                 } else {
@@ -34,7 +34,7 @@ class BoxChat {
                             }
 
                         } catch (IOException e) {
-                            if(!socket.isClosed()) {
+                            if (!socket.isClosed()) {
                                 try {
                                     socket.close();
                                 } catch (IOException e1) {
@@ -52,7 +52,7 @@ class BoxChat {
 
                     String send = scanner.nextLine();
 
-                    if(socket.isClosed()){
+                    if (socket.isClosed()) {
                         System.out.println("Chat Box was finished!");
                         break;
                     }

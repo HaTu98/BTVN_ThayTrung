@@ -1,6 +1,7 @@
 package ServerClient;
 
 import java.io.*;
+import java.net.ConnectException;
 import java.net.ServerSocket;
 import java.net.Socket;
 
@@ -17,7 +18,7 @@ public class Server {
         } catch (Exception e) {
             e.printStackTrace();
         } finally {
-            if(listener != null){
+            if (listener != null) {
                 try {
                     listener.close();
                 } catch (IOException e) {

@@ -24,9 +24,9 @@ class Server {
 
                     while (true) {
                         Socket client = serverSocket.accept();
-//                        BufferedWriter bufferedWriter = new BufferedWriter(new OutputStreamWriter(client.getOutputStream()));
-//                        arr.add(bufferedWriter);
-                            sockets.add(client);
+                        BufferedWriter bufferedWriter = new BufferedWriter(new OutputStreamWriter(client.getOutputStream()));
+                        arr.add(bufferedWriter);
+//                            sockets.add(client);
 //                new WriteThread(client, "Server");
 //                //new Thread((new ClientHandle(client, bufferedWriter))).start();
                     }
@@ -38,9 +38,7 @@ class Server {
         }).start();
 
         while (true) {
-            for (Socket socket : sockets) {
-                new Thread((new ClientHandle(socket, bufferedWriter))).start();
-            }
+            sendMsg();
         }
 
 

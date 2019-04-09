@@ -6,9 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="BTVN_Bai12_TuHV" />
-        <module name="BTVN_Bai13_TuHV" />
+        <module name="BTVN_ThayTrung (2)" />
         <module name="Demo" />
+        <module name="BTVN_Bai13_TuHV" />
+        <module name="BTVN_Bai12_TuHV" />
+        <module name="BTVN_ThayTrung (1)" />
       </profile>
     </annotationProcessing>
   </component>

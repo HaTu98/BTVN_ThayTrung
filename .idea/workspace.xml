@@ -3,13 +3,25 @@
   <component name="ChangeListManager">
     <list default="true" id="d0b8e5ca-3659-418b-af34-41aead1344b3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo/target/classes/DemoSocket.class" beforeDir="false" afterPath="$PROJECT_DIR$/Demo/target/classes/DemoSocket.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTVN_Bai13_TuHV/target/classes/MultiClient/Server$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/BTVN_Bai13_TuHV/target/classes/MultiClient/Server$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTVN_Bai13_TuHV/target/classes/MultiClient/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/BTVN_Bai13_TuHV/target/classes/MultiClient/Server.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/src/main/java/DemoSocket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/target/classes/DemoSocket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/Demo/target/" />
     <ignored path="$PROJECT_DIR$/BTVN_Bai12_TuHV/target/" />
     <ignored path="$PROJECT_DIR$/BTVN_Bai13_TuHV/target/" />
+    <ignored path="$PROJECT_DIR$/BTVN_Bai14_TuHV/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,58 +42,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BTVN_Bai13_TuHV/src/main/java/MultiClient/Client.java">
+        <entry file="file://$PROJECT_DIR$/BTVN_Bai14_TuHV/src/main/java/connectionpool/ConnectionPool.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BTVN_Bai13_TuHV/src/main/java/MultiClient/Client1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BTVN_Bai13_TuHV/src/main/java/MultiClient/ReadThread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="121">
-              <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BTVN_Bai13_TuHV/src/main/java/MultiClient/WriteThread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BTVN_Bai13_TuHV/src/main/java/MultiClient/Server.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="601">
-              <caret line="41" column="16" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
+            <state relative-caret-position="1003">
+              <caret line="59" column="46" selection-start-line="59" selection-start-column="46" selection-end-line="59" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -90,12 +54,14 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BTVN_Bai13_TuHV/src/main/java/MultiClient/ClientHandle.java">
+        <entry file="file://$PROJECT_DIR$/BTVN_Bai14_TuHV/src/main/java/connectionpool/UserConnectionPool.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="39" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
+            <state relative-caret-position="-391">
+              <caret line="10" column="78" selection-start-line="10" selection-start-column="70" selection-end-line="10" selection-end-column="78" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#710#1101#0" expanded="true" />
+                <element signature="e#1100#1101#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -126,12 +92,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Demo/src/main/java/DemoSocket.java" />
-        <option value="$PROJECT_DIR$/BTVN_Bai12_TuHV/pom.xml" />
-        <option value="$PROJECT_DIR$/BTVN_Bai12_TuHV/src/main/java/tet.java" />
-        <option value="$PROJECT_DIR$/BTVN_Bai12_TuHV/src/main/java/Task.java" />
-        <option value="$PROJECT_DIR$/BTVN_Bai12_TuHV/src/main/java/test.java" />
-        <option value="$PROJECT_DIR$/BTVN_Bai12_TuHV/src/main/java/TimedExecutorService.java" />
         <option value="$PROJECT_DIR$/BTVN_Bai12_TuHV/src/main/java/data.java" />
         <option value="$PROJECT_DIR$/BTVN_Bai13_TuHV/pom.xml" />
         <option value="$PROJECT_DIR$/BTVN_Bai13_TuHV/src/main/java/threadsocket.java" />
@@ -168,6 +128,21 @@
         <option value="$PROJECT_DIR$/BTVN_Bai13_TuHV/src/main/java/MultiClient/Client.java" />
         <option value="$PROJECT_DIR$/BTVN_Bai13_TuHV/src/main/java/MultiClient/Client1.java" />
         <option value="$PROJECT_DIR$/BTVN_Bai13_TuHV/src/main/java/MultiClient/Server.java" />
+        <option value="$PROJECT_DIR$/BTVN_Bai14_TuHV/BTVN_Bai14_TuHV.iml" />
+        <option value="$PROJECT_DIR$/BTVN_Bai14_TuHV/src/main/java/DBConnection.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/BTVN_Bai14_TuHV/pom.xml" />
+        <option value="$PROJECT_DIR$/BTVN_Bai14_TuHV/src/main/java/ITLap/DBConnection.java" />
+        <option value="$PROJECT_DIR$/BTVN_Bai14_TuHV/src/main/java/ITLap/Query.java" />
+        <option value="$PROJECT_DIR$/BTVN_Bai14_TuHV/src/main/java/ITLap/JDBCStoredProcedure.java" />
+        <option value="$PROJECT_DIR$/BTVN_Bai14_TuHV/src/main/java/connection_pool/ConnectionPool.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DemoLinkedList.java" />
+        <option value="$PROJECT_DIR$/BTVN_Bai14_TuHV/src/main/java/connectionpool/Main.java" />
+        <option value="$PROJECT_DIR$/BTVN_Bai14_TuHV/src/main/java/itlap/Query.java" />
+        <option value="$PROJECT_DIR$/BTVN_Bai14_TuHV/src/main/java/connection/Query.java" />
+        <option value="$PROJECT_DIR$/BTVN_Bai14_TuHV/src/main/java/connection/JDBCStoredProcedure.java" />
+        <option value="$PROJECT_DIR$/BTVN_Bai14_TuHV/src/main/java/connectionpool/UserConnectionPool.java" />
+        <option value="$PROJECT_DIR$/BTVN_Bai14_TuHV/src/main/java/connectionpool/ConnectionPool.java" />
       </list>
     </option>
   </component>
@@ -208,46 +183,46 @@
             <path>
               <item name="BTVN_ThayTrung" type="b2602c69:ProjectViewProjectNode" />
               <item name="BTVN_ThayTrung" type="462c0819:PsiDirectoryNode" />
-              <item name="BTVN_Bai13_TuHV" type="462c0819:PsiDirectoryNode" />
+              <item name="BTVN_Bai14_TuHV" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="BTVN_ThayTrung" type="b2602c69:ProjectViewProjectNode" />
               <item name="BTVN_ThayTrung" type="462c0819:PsiDirectoryNode" />
-              <item name="BTVN_Bai13_TuHV" type="462c0819:PsiDirectoryNode" />
+              <item name="BTVN_Bai14_TuHV" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="BTVN_ThayTrung" type="b2602c69:ProjectViewProjectNode" />
               <item name="BTVN_ThayTrung" type="462c0819:PsiDirectoryNode" />
-              <item name="BTVN_Bai13_TuHV" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BTVN_ThayTrung" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BTVN_ThayTrung" type="462c0819:PsiDirectoryNode" />
-              <item name="BTVN_Bai13_TuHV" type="462c0819:PsiDirectoryNode" />
+              <item name="BTVN_Bai14_TuHV" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="BTVN_ThayTrung" type="b2602c69:ProjectViewProjectNode" />
               <item name="BTVN_ThayTrung" type="462c0819:PsiDirectoryNode" />
-              <item name="BTVN_Bai13_TuHV" type="462c0819:PsiDirectoryNode" />
+              <item name="BTVN_Bai14_TuHV" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="MultiClient" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="BTVN_ThayTrung" type="b2602c69:ProjectViewProjectNode" />
               <item name="BTVN_ThayTrung" type="462c0819:PsiDirectoryNode" />
-              <item name="BTVN_Bai13_TuHV" type="462c0819:PsiDirectoryNode" />
+              <item name="BTVN_Bai14_TuHV" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ServerClient" type="462c0819:PsiDirectoryNode" />
+              <item name="connection" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BTVN_ThayTrung" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BTVN_ThayTrung" type="462c0819:PsiDirectoryNode" />
+              <item name="BTVN_Bai14_TuHV" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="connectionpool" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -262,11 +237,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554655496273" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/BTVN_Bai14_TuHV/src/main/java" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -280,13 +256,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client1">
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MultiClient.Client" />
-      <module name="BTVN_ThayTrung (1)" />
+  <component name="RunManager" selected="Application.UserConnectionPool">
+    <configuration name="DBConnection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="connection.DBConnection" />
+      <module name="BTVN_Bai14_TuHV" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MultiClient.ReadThread" />
+          <option name="PATTERN" value="connection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -294,12 +270,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MultiClient.Client1" />
-      <module name="BTVN_ThayTrung (1)" />
+    <configuration name="DemoLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DemoLinkedList" />
+      <module name="BTVN_ThayTrung" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDBCExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ITLap.JDBCExample" />
+      <module name="BTVN_Bai14_TuHV" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MultiClient.ReadThread" />
+          <option name="PATTERN" value="connection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -307,12 +290,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MultiClient.Server" />
-      <module name="BTVN_ThayTrung (1)" />
+    <configuration name="JDBCStoredProcedure" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="connection.JDBCStoredProcedure" />
+      <module name="BTVN_Bai14_TuHV" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MultiClient.ReadThread" />
+          <option name="PATTERN" value="connection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -320,25 +303,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="client_frame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MultiClient.client_frame" />
-      <module name="BTVN_ThayTrung (1)" />
+    <configuration name="UserConnectionPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="connectionpool.UserConnectionPool" />
+      <module name="BTVN_Bai14_TuHV" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MultiClient.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="server_frame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MultiClient.server_frame" />
-      <module name="BTVN_ThayTrung (1)" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="MultiClient.*" />
+          <option name="PATTERN" value="connectionpool.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -348,11 +318,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Client1" />
-        <item itemvalue="Application.Client" />
-        <item itemvalue="Application.Server" />
-        <item itemvalue="Application.client_frame" />
-        <item itemvalue="Application.server_frame" />
+        <item itemvalue="Application.UserConnectionPool" />
+        <item itemvalue="Application.JDBCStoredProcedure" />
+        <item itemvalue="Application.DBConnection" />
+        <item itemvalue="Application.JDBCExample" />
+        <item itemvalue="Application.DemoLinkedList" />
       </list>
     </recent_temporary>
   </component>
@@ -382,7 +352,14 @@
       <workItem from="1554775098345" duration="5438000" />
       <workItem from="1554781627439" duration="181000" />
       <workItem from="1554783286772" duration="314000" />
-      <workItem from="1554784734825" duration="518000" />
+      <workItem from="1554784734825" duration="13010000" />
+      <workItem from="1554855077741" duration="12566000" />
+      <workItem from="1554908849239" duration="285000" />
+      <workItem from="1554910257308" duration="1956000" />
+      <workItem from="1554927374563" duration="1639000" />
+      <workItem from="1554948873813" duration="9235000" />
+      <workItem from="1554993438764" duration="230000" />
+      <workItem from="1554994964041" duration="8685000" />
     </task>
     <task id="LOCAL-00001" summary="Bài 1 client server">
       <created>1554646926626</created>
@@ -395,7 +372,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88038000" />
+    <option name="totallyTimeSpent" value="135126000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -407,10 +384,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.497545" visible="true" weight="0.2118003" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.497545" visible="true" weight="0.22087745" />
       <window_info id="Structure" order="1" sideWeight="0.502455" side_tool="true" weight="0.28139183" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -419,7 +396,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.5008183" side_tool="true" weight="0.25340393" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4977307" weight="0.30441898" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4977307" visible="true" weight="0.31096563" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -487,33 +464,7 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BTVN_ThayTrung.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/src/main/java/DemoSocket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
-          <folding>
-            <element signature="e#69#70#0" expanded="true" />
-            <element signature="e#112#113#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BTVN_Bai12_TuHV/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo/pom.xml" />
     <entry file="file://$PROJECT_DIR$/BTVN_Bai12_TuHV/src/main/java/tet.java" />
     <entry file="file://$PROJECT_DIR$/BTVN_Bai12_TuHV/src/main/java/Task.java" />
     <entry file="file://$PROJECT_DIR$/BTVN_Bai12_TuHV/src/main/java/test.java" />
@@ -569,17 +520,60 @@
     <entry file="file://$PROJECT_DIR$/BTVN_Bai13_TuHV/src/main/java/MultiClient/ClientServer.java" />
     <entry file="file://$PROJECT_DIR$/BTVN_Bai13_TuHV/src/main/java/MultiClient/MultiThreadChatServerSync.java" />
     <entry file="file://$PROJECT_DIR$/BTVN_Bai13_TuHV/src/main/java/ServerClient/Client1.java" />
-    <entry file="file://$PROJECT_DIR$/BTVN_Bai13_TuHV/src/main/java/ServerClient/Client.java">
+    <entry file="file://$PROJECT_DIR$/BTVN_Bai13_TuHV/src/main/java/MultiClient/clientThread.java" />
+    <entry file="file://$PROJECT_DIR$/BTVN_Bai13_TuHV/src/main/java/MultiClient/ChatClient.java" />
+    <entry file="file://$PROJECT_DIR$/BTVN_Bai13_TuHV/src/main/java/ServerClient/client_frame.java" />
+    <entry file="file://$PROJECT_DIR$/BTVN_Bai13_TuHV/src/main/java/ServerClient/server_frame.java" />
+    <entry file="file://$PROJECT_DIR$/BTVN_Bai13_TuHV/src/main/java/MultiClient/ReadThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="70">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BTVN_Bai13_TuHV/src/main/java/MultiClient/WriteThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="29" column="51" selection-start-line="29" selection-start-column="51" selection-end-line="29" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo/src/main/java/DemoSocket.java" />
+    <entry file="file://$PROJECT_DIR$/BTVN_Bai14_TuHV/BTVN_Bai14_TuHV.iml" />
+    <entry file="file://$PROJECT_DIR$/BTVN_Bai12_TuHV/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BTVN_ThayTrung.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BTVN_Bai14_TuHV/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="36" lean-forward="true" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BTVN_Bai13_TuHV/src/main/java/ServerClient/BoxChat.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-87">
-          <caret line="19" column="35" lean-forward="true" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+        <state relative-caret-position="70">
+          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#548#1737#0" expanded="true" />
@@ -588,24 +582,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BTVN_Bai13_TuHV/src/main/java/MultiClient/clientThread.java" />
-    <entry file="file://$PROJECT_DIR$/BTVN_Bai13_TuHV/src/main/java/MultiClient/ChatClient.java" />
-    <entry file="file://$PROJECT_DIR$/BTVN_Bai13_TuHV/src/main/java/ServerClient/Server.java">
+    <entry file="file://$PROJECT_DIR$/BTVN_Bai13_TuHV/src/main/java/MultiClient/ClientHandle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="459">
+          <caret line="28" column="39" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BTVN_Bai13_TuHV/src/main/java/ServerClient/client_frame.java" />
-    <entry file="file://$PROJECT_DIR$/BTVN_Bai13_TuHV/src/main/java/ServerClient/server_frame.java" />
-    <entry file="file://$PROJECT_DIR$/BTVN_Bai13_TuHV/src/main/java/MultiClient/Client.java">
+    <entry file="file://$PROJECT_DIR$/BTVN_Bai13_TuHV/src/main/java/MultiClient/Server.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="425">
+          <caret line="40" column="22" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BTVN_Bai13_TuHV/src/main/java/ServerClient/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BTVN_Bai13_TuHV/src/main/java/ServerClient/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -622,42 +629,71 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BTVN_Bai13_TuHV/src/main/java/MultiClient/ReadThread.java">
+    <entry file="file://$PROJECT_DIR$/BTVN_Bai13_TuHV/src/main/java/MultiClient/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BTVN_Bai13_TuHV/src/main/java/MultiClient/WriteThread.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/DemoLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+        <state relative-caret-position="195">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BTVN_Bai13_TuHV/src/main/java/MultiClient/Server.java">
+    <entry file="file://$PROJECT_DIR$/BTVN_Bai14_TuHV/src/main/java/connection/JDBCStoredProcedure.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="601">
-          <caret line="41" column="16" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
+        <state relative-caret-position="102">
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BTVN_Bai14_TuHV/src/main/java/connection/DBConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="13" column="42" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BTVN_Bai13_TuHV/src/main/java/MultiClient/ClientHandle.java">
+    <entry file="file://$PROJECT_DIR$/BTVN_Bai14_TuHV/src/main/java/connection/Query.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="39" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
+        <state relative-caret-position="51">
+          <caret line="15" column="37" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BTVN_Bai14_TuHV/src/main/java/connectionpool/ConnectionPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="59" column="46" selection-start-line="59" selection-start-column="46" selection-end-line="59" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BTVN_Bai14_TuHV/src/main/java/connectionpool/UserConnectionPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-391">
+          <caret line="10" column="78" selection-start-line="10" selection-start-column="70" selection-end-line="10" selection-end-column="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#710#1101#0" expanded="true" />
+            <element signature="e#1100#1101#0" expanded="true" />
           </folding>
         </state>
       </provider>

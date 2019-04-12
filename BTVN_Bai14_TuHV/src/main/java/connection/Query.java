@@ -16,7 +16,6 @@ public class Query {
             connection = DBConnection.getConnection();
             call = connection.prepareCall("{call selectUser()}");
 
-
             resultSet = call.executeQuery();
 
             while(resultSet.next()){

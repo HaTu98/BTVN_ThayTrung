@@ -57,8 +57,19 @@ public class ConnectionPool {
                 }
             }
         }
-        connection = initializeConnectionPool.remove(0);
-        userConnectionPool.add(connection);
+        while(true) {
+            if(initializeConnectionPool.size() > 0) {
+                connection = initializeConnectionPool.remove(0);
+                userConnectionPool.add(connection);
+                break;
+            }else {
+                try {
+                    wait();
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
+            }
+        }
         return connection;
     }
 

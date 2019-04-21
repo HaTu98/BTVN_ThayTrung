@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>BTVN_Bai14_TuHV</module>
+        <module>BTVN_Bai18_TuHV</module>
     </modules>
 
 </project>
